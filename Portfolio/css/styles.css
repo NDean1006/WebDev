@@ -1,0 +1,49 @@
+/* Global */
+
+* {
+  box-sizing: border-box;
+}
+
+* {
+  font-family: 'Lato', sans-serif;
+  color: #747704;
+  font-weight: 300;
+}
+/* Portfolio logo */
+
+.logo {
+  margin: 20px 0 0 0;
+  padding: 0 15px 7px 15px;
+}
+/* Header tags */
+
+h1 {
+  font-size: 49px;
+  font-weight: 100;
+  margin: 20px 0 0 0;
+}
+
+h2 {
+  font-size: 20px;
+  color: #bcb;
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: bold;
+  margin: 10px 0 0 0;
+}
+
+h4 {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+}
+
+/* Horizontal Separator */
+
+hr {
+  border: 1px solid #bcb;
+  margin: 0 0 15px 0;
+  padding: 0;
+}
